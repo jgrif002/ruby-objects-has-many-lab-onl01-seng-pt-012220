@@ -13,7 +13,7 @@ class Author
     post.author = self 
   end 
   
-  def add_song_by_name(name) 
+  def add_post_by_author(name) 
     new_song = Song.new(name)
     add_song(new_song)
   end 
