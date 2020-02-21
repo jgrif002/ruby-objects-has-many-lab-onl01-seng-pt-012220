@@ -13,10 +13,6 @@ class Post
   end 
   
   def author_name(name)
-   Self.artist 
-   if Self.artist = nil 
-     return "nil"
-    end 
-  end 
+   
   
 end 
