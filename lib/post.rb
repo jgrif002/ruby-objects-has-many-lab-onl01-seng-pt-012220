@@ -12,4 +12,8 @@ class Post
     @@all
   end 
   
+  def artist_name(title)
+    self(artist).tltle 
+  end 
+  
 end 
