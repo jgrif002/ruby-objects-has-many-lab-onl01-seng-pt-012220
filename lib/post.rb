@@ -12,9 +12,4 @@ class Post
     @@all
   end 
   
-  def author_name(name)
-    self.artist 
-  end 
-   
-  
 end 
